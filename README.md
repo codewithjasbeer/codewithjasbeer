@@ -1,4 +1,5 @@
-<h2 align="center">Hi there 👋, Welcome to my Github page!</h2>
+<h2 align="center">Hi there 👋, Welcome to my Github page!</h2>  
+
 <ul>
 <li>
 - 👋 Hi, I’m Jasbeer singh, currently working as an Application Development Team Lead in Accenture. I have over 10 years of experience in Software and Application Development. </li>
@@ -9,7 +10,6 @@
 <li>- ⚡ Apart from this, I love writing. I have published two fiction books.</li>
 
   </ul>
-  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=codewithjasbeer)
     
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithjasbeer&show_icons=true&locale=en" alt="ashishps1" />
