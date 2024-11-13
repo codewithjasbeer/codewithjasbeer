@@ -11,8 +11,7 @@
 
 ![Jasbeer's github stats](https://github-readme-stats.vercel.app/api?username=codewithjasbeer)
 
-![Most Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithjasbeer&theme=tokyonig)
-
+![Most Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithjasbeer&theme=tokyonight)
 
 <!---
 jasbeersingh02/jasbeersingh02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
