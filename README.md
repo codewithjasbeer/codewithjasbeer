@@ -2,7 +2,7 @@
 
 <ul>
 <li>
-- 👋 Hi, I’m Jasbeer singh, currently working as an Application Development Team Lead in Accenture. I have over 10 years of experience in Software and Application Development. </li>
+- 👋 Hi, I’m Jasbeer singh, currently working as an Application Development Team Lead in Accenture. I have over 12 years of experience in Software and Application Development. </li>
 <li>- 👀 I’m interested in Web API's, Algorithms, Cloud, Gen-AI, and much more.</li>
 <li>- 🌱 I’m currently learning Data Structure and Reactjs.</li>
 <li>- 📫 You can follow me on <a href="https://www.linkedin.com/in/singhjasbeer/"> Linkedin </a> and <a href="https://x.com/codewithjasbeer"> X </a> </li>
