@@ -12,7 +12,7 @@
   </ul>
     
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithjasbeer&show_icons=true&locale=en" alt="ashishps1" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithjasbeer&show_icons=true&locale=en" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithjasbeer&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
 </p>
 
